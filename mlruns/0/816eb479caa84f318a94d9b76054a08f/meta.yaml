@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/naveen/PycharmProjects/mlops-sample-project/mlruns/0/816eb479caa84f318a94d9b76054a08f/artifacts
+end_time: 1722747588006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 816eb479caa84f318a94d9b76054a08f
+run_name: ambitious-hound-656
+run_uuid: 816eb479caa84f318a94d9b76054a08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722747586347
+status: 3
+tags: []
+user_id: naveen

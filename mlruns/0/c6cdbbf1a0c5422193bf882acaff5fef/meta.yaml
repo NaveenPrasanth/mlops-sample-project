@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/naveen/PycharmProjects/mlops-sample-project/mlruns/0/c6cdbbf1a0c5422193bf882acaff5fef/artifacts
+end_time: 1722660658731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6cdbbf1a0c5422193bf882acaff5fef
+run_name: judicious-fowl-81
+run_uuid: c6cdbbf1a0c5422193bf882acaff5fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722660658639
+status: 3
+tags: []
+user_id: naveen
