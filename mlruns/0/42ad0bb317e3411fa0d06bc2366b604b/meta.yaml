@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/naveen/PycharmProjects/mlops-sample-project/mlruns/0/42ad0bb317e3411fa0d06bc2366b604b/artifacts
+end_time: 1722660732863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42ad0bb317e3411fa0d06bc2366b604b
+run_name: brawny-foal-198
+run_uuid: 42ad0bb317e3411fa0d06bc2366b604b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722660732752
+status: 3
+tags: []
+user_id: naveen
