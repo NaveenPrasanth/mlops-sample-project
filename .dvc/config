@@ -1,0 +1,6 @@
+[core]
+    remote = localremote
+['remote "myremote"']
+    url = gdrive://1QRlBc7TynYBp3qrjPPY61TEqtN6Dln9Z
+['remote "localremote"']
+    url = /Users/naveen/code/dvc/local/storage
