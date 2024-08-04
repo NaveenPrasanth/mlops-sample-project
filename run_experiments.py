@@ -5,7 +5,7 @@ from model import train_model
 params = [
     {"n_estimators": 100, "max_depth": 3},
     {"n_estimators": 200, "max_depth": 5},
-    {"n_estimators": 150, "max_depth": 4}
+    {"n_estimators": 150, "max_depth": 4},
 ]
 
 for param in params:
